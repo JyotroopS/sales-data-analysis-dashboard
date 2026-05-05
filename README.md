@@ -1,4 +1,6 @@
 # 📊 Sales Data Analysis Dashboard
+![Excel](https://img.shields.io/badge/Tool-Excel-green)
+![PowerBI](https://img.shields.io/badge/Tool-PowerBI-yellow)
 
 # 📌 Project Overview
 This project focuses on analyzing sales data to identify key business insights such as revenue trends, profitability, and top-performing products.
