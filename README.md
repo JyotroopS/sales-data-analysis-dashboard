@@ -3,24 +3,24 @@
 # 📌 Project Overview
 This project focuses on analyzing sales data to identify key business insights such as revenue trends, profitability, and top-performing products.
 
-🛠️ Tools Used
+# 🛠️ Tools Used
 Microsoft Excel (Data Cleaning & Analysis)
 Power BI (Dashboard & Visualization)
 
-📂 Dataset
-Raw datasets (uncleaned)
-Cleaned & merged dataset
-KPI and business analysis files
+# 📂 Dataset
+* Raw datasets (uncleaned)
+* Cleaned & merged dataset
+* KPI and business analysis files
 
-⚙️ Process
+# ⚙️ Process
 Cleaned data (handled missing values, formatting issues)
 Merged datasets using Excel Power Query
 Created KPIs:
-Total Sales
-Total Profit
-Profit Margin
-Average Order Value
-Built interactive Power BI dashboard
+* Total Sales
+* Total Profit
+* Profit Margin
+* Average Order Value
+* Built interactive Power BI dashboard
 
 📈 Key Insights
 Identified top-performing products contributing highest revenue
