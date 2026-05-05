@@ -22,14 +22,14 @@ Created KPIs:
 * Average Order Value
 * Built interactive Power BI dashboard
 
-📈 Key Insights
-Identified top-performing products contributing highest revenue
-Found loss-making products despite high sales
-Regional analysis showed variation in profitability
-Discounts impacted overall profit margins
+# 📈 Key Insights
+* Identified top-performing products contributing highest revenue
+* Found loss-making products despite high sales
+* Regional analysis showed variation in profitability
+* Discounts impacted overall profit margins
 
-📊 Dashboard Preview
-!dashboard_screenshot.png
+# 📊 Dashboard Preview
+<img width="1367" height="742" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/1867d746-3226-4d20-9cc3-035bdab5ed19" />
 
-🚀 Conclusion
+# 🚀 Conclusion
 The project highlights how data analysis can help businesses make better decisions by identifying profitable areas and reducing losses.
